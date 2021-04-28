@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+
+}
+
+#blurb {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
+
+#link {
+    color: aquamarine;
+    font-size: 16 px;
+}
